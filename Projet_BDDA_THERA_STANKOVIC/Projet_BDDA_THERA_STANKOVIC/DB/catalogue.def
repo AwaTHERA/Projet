@@ -1,0 +1,5 @@
+RelationInfo [nomRelation=OK, nbrColonne=1, nomColonne=[OK], typeColonne=[OK]]
+RelationInfo [nomRelation=LILILILI, nbrColonne=2, nomColonne=[OK, LI], typeColonne=[LILI, LO]]
+RelationInfo [nomRelation=oko, nbrColonne=2, nomColonne=[li, kokok], typeColonne=[li, lo]]
+RelationInfo [nomRelation=ok, nbrColonne=2, nomColonne=[ok, lil], typeColonne=[ok, ok]]
+compteurRelations :4
